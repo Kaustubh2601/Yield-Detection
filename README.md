@@ -14,45 +14,6 @@ This repository contains codes for the paper entitled <a href="https://www.front
 
 
 ```
-@article{Khaki_2020,
-   title={A CNN-RNN Framework for Crop Yield Prediction},
-   volume={10},
-   ISSN={1664-462X},
-   url={http://dx.doi.org/10.3389/fpls.2019.01750},
-   DOI={10.3389/fpls.2019.01750},
-   journal={Frontiers in Plant Science},
-   publisher={Frontiers Media SA},
-   author={Khaki, Saeed and Wang, Lizhi and Archontoulis, Sotirios V.},
-   year={2020},
-   month={Jan}
-}
-
-
-
-@article{khaki2019crop,
-  title={Crop yield prediction using deep neural networks},
-  author={Khaki, Saeed and Wang, Lizhi},
-  journal={Frontiers in plant science},
-  volume={10},
-  year={2019},
-  publisher={Frontiers Media SA}
-}
-
-@article{khaki2020predicting, title={Predicting yield performance of parents in plant breeding: 
-A neural collaborative filtering approach}, 
-author={Khaki, Saeed and Khalilzadeh, Zahra and Wang, Lizhi},
-journal={Plos one}, volume={15}, number={5}, pages={e0233382}, 
-year={2020}, 
-publisher={Public Library of Science San Francisco, CA USA}}
-
-@article{khaki2020yieldnet,
-  title={YieldNet: A Convolutional Neural Network for Simultaneous Corn and Soybean
-  Yield Prediction Based on Remote Sensing Data},
-  author={Khaki, Saeed and Pham, Hieu and Wang, Lizhi},
-  journal={arXiv preprint arXiv:2012.03129},
-  year={2020}
-}
-
 
 
 
